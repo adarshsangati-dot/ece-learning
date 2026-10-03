@@ -20,3 +20,4 @@ Projects and experiments will be added here as I learn.
 ## Goal
 
 Build strong programming and electronics skills through consistent practice and hands-on projects.
+Currently learning Git and GitHub.
